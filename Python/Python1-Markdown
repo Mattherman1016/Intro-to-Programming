@@ -1,0 +1,23 @@
+## Mark Down PYTHON
+- First opened terminal
+- trying to locate voice memos using cd
+- first did cd applications
+- ls would not work with this
+- Googled Location of Apple voice memos
+- https://nono.ma/location-of-apple-voice-memos
+- cd library
+- cd application support
+- cd com.apple.voicememos
+- ls brought me to recordings
+- cd recordings
+- ls brought me to tons of hash named m4a files
+- I assume now that i have to make a recording first
+- cleared
+- Trouble with the name - how am i going to find it?
+- At this point i am stuck... Not sure where to go
+- what do i do with -o??
+- Finally looked at the aiff recording demo and figured out how to record directly onto desktop
+- Used Ellen again cuz why Not
+- cd desktop say -v Ellen "An old silent pond. A frog jumps into the pond. Splash! Silence again." -o haikufrog.aiff
+- Got the aiff on my desktop
+- Now i guess i submit the aiff file to the OL?
